@@ -15,4 +15,4 @@ IDLE dark theme
   Insert a theme file along the path: `~/.config/geany/colorschemes/`
 
 # Donate:3
-https://money.yandex.ru/to/410015858804944/0 (Personal wallet)
+https://money.yandex.ru/to/410015858804944/0
