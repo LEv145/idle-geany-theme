@@ -7,9 +7,11 @@ IDLE dark theme
 
 # How to use
 * Windows:
+
   Insert a theme file along the path: `C:\Users\YourUserName\AppData\Roaming\geany\colorschemes`
 
 * Linux:
+
   Insert a theme file along the path: `~/.config/geany/colorschemes/`
 
 # Donate:3
